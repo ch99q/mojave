@@ -1,0 +1,7 @@
+{
+  "setupTasks": [
+    "nix-env -i graalvm17-ce",
+    "curl -o server.jar https://papermc.io/api/v1/paper/1.19/latest/download"
+  ],
+  "tasks": {}
+}
