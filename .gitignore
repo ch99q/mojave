@@ -1,0 +1,15 @@
+/logs/**
+/libraries/**
+/versions/**
+/cache/**
+!/world/datapacks
+/world
+/world_nether
+/world_the_end
+
+.console_history
+
+version_history.json
+usercache.json
+
+server.jar
